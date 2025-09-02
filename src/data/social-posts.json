@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "author": "Alice",
+        "timestamp": "2025-05-24T14:30:00Z",
+        "category": "General",
+        "title": "Welcome to the community!",
+        "content": "Hi everyone, glad to be here and excited to share ideas."
+    },
+    {
+        "id": 2,
+        "author": "Bob",
+        "timestamp": "2025-05-23T10:15:00Z",
+        "category": "Strategy",
+        "title": "Best ways to level up fast",
+        "content": "Here are some tips and tricks to get ahead quickly..."
+    },
+    {
+        "id": 3,
+        "author": "Carol",
+        "timestamp": "2025-05-22T18:00:00Z",
+        "category": "Guide",
+        "title": "Beginner's guide to quests",
+        "content": "If you're new, follow this step-by-step quest guide..."
+    },
+    {
+        "id": 4,
+        "author": "Dave",
+        "timestamp": "2025-05-21T21:45:00Z",
+        "category": "Lore",
+        "title": "Lore discussion: Origins of the kingdom",
+        "content": "Let's dive into the history and myths behind the kingdom..."
+    }
+]

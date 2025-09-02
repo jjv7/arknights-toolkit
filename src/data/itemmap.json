@@ -1,0 +1,326 @@
+[
+  {
+    "itemId": "2001",
+    "name": "Drill Battle Record"
+  },
+  {
+    "itemId": "2002",
+    "name": "Frontline Battle Record"
+  },
+  {
+    "itemId": "2003",
+    "name": "Tactical Battle Record"
+  },
+  {
+    "itemId": "2004",
+    "name": "Strategic Battle Record"
+  },
+  {
+    "itemId": "3003",
+    "name": "Pure Gold"
+  },
+  {
+    "itemId": "30011",
+    "name": "Orirock"
+  },
+  {
+    "itemId": "30012",
+    "name": "Orirock Cube"
+  },
+  {
+    "itemId": "30013",
+    "name": "Orirock Cluster"
+  },
+  {
+    "itemId": "30014",
+    "name": "Orirock Concentration"
+  },
+  {
+    "itemId": "30061",
+    "name": "Damaged Device"
+  },
+  {
+    "itemId": "30062",
+    "name": "Device"
+  },
+  {
+    "itemId": "30063",
+    "name": "Integrated Device"
+  },
+  {
+    "itemId": "30064",
+    "name": "Optimized Device"
+  },
+  {
+    "itemId": "30031",
+    "name": "Ester"
+  },
+  {
+    "itemId": "30032",
+    "name": "Polyester"
+  },
+  {
+    "itemId": "30033",
+    "name": "Polyester Pack"
+  },
+  {
+    "itemId": "30034",
+    "name": "Polyester Lump"
+  },
+  {
+    "itemId": "30021",
+    "name": "Sugar Substitute"
+  },
+  {
+    "itemId": "30022",
+    "name": "Sugar"
+  },
+  {
+    "itemId": "30023",
+    "name": "Sugar Pack"
+  },
+  {
+    "itemId": "30024",
+    "name": "Sugar Lump"
+  },
+  {
+    "itemId": "30041",
+    "name": "Oriron Shard"
+  },
+  {
+    "itemId": "30042",
+    "name": "Oriron"
+  },
+  {
+    "itemId": "30043",
+    "name": "Oriron Cluster"
+  },
+  {
+    "itemId": "30044",
+    "name": "Oriron Block"
+  },
+  {
+    "itemId": "30051",
+    "name": "Diketon"
+  },
+  {
+    "itemId": "30052",
+    "name": "Polyketon"
+  },
+  {
+    "itemId": "30053",
+    "name": "Aketon"
+  },
+  {
+    "itemId": "30054",
+    "name": "Keton Colloid"
+  },
+  {
+    "itemId": "30073",
+    "name": "Loxic Kohl"
+  },
+  {
+    "itemId": "30074",
+    "name": "White Horse Kohl"
+  },
+  {
+    "itemId": "30083",
+    "name": "Manganese Ore"
+  },
+  {
+    "itemId": "30084",
+    "name": "Manganese Trihydrate"
+  },
+  {
+    "itemId": "30093",
+    "name": "Grindstone"
+  },
+  {
+    "itemId": "30094",
+    "name": "Grindstone Pentahydrate"
+  },
+  {
+    "itemId": "30103",
+    "name": "RMA70-12"
+  },
+  {
+    "itemId": "30104",
+    "name": "RMA70-24"
+  },
+  {
+    "itemId": "furni",
+    "name": "Furniture"
+  },
+  {
+    "itemId": "3112",
+    "name": "Carbon Stick"
+  },
+  {
+    "itemId": "3113",
+    "name": "Carbon Brick"
+  },
+  {
+    "itemId": "3114",
+    "name": "Carbon Pack"
+  },
+  {
+    "itemId": "3301",
+    "name": "Skill Summary - 1"
+  },
+  {
+    "itemId": "3302",
+    "name": "Skill Summary - 2"
+  },
+  {
+    "itemId": "3303",
+    "name": "Skill Summary - 3"
+  },
+  {
+    "itemId": "31013",
+    "name": "Coagulating Gel"
+  },
+  {
+    "itemId": "31014",
+    "name": "Polymerized Gel"
+  },
+  {
+    "itemId": "31023",
+    "name": "Incandescent Alloy"
+  },
+  {
+    "itemId": "31024",
+    "name": "Incandescent Alloy Block"
+  },
+  {
+    "itemId": "30115",
+    "name": "Polymerization Preparation"
+  },
+  {
+    "itemId": "30125",
+    "name": "Bipolar Nanoflake"
+  },
+  {
+    "itemId": "30135",
+    "name": "D32 Steel"
+  },
+  {
+    "itemId": "31033",
+    "name": "Crystalline Component"
+  },
+  {
+    "itemId": "31034",
+    "name": "Crystalline Circuit"
+  },
+  {
+    "itemId": "30145",
+    "name": "Crystalline Electronic Unit"
+  },
+  {
+    "itemId": "3211",
+    "name": "Vanguard Chip"
+  },
+  {
+    "itemId": "3221",
+    "name": "Guard Chip"
+  },
+  {
+    "itemId": "3241",
+    "name": "Sniper Chip"
+  },
+  {
+    "itemId": "3231",
+    "name": "Defender Chip"
+  },
+  {
+    "itemId": "3261",
+    "name": "Medic Chip"
+  },
+  {
+    "itemId": "3271",
+    "name": "Supporter Chip"
+  },
+  {
+    "itemId": "3251",
+    "name": "Caster Chip"
+  },
+  {
+    "itemId": "3281",
+    "name": "Specialist Chip"
+  },
+  {
+    "itemId": "3212",
+    "name": "Vanguard Chip Pack"
+  },
+  {
+    "itemId": "3222",
+    "name": "Guard Chip Pack"
+  },
+  {
+    "itemId": "3242",
+    "name": "Sniper Chip Pack"
+  },
+  {
+    "itemId": "3232",
+    "name": "Defender Chip Pack"
+  },
+  {
+    "itemId": "3262",
+    "name": "Medic Chip Pack"
+  },
+  {
+    "itemId": "3272",
+    "name": "Supporter Chip Pack"
+  },
+  {
+    "itemId": "3252",
+    "name": "Caster Chip Pack"
+  },
+  {
+    "itemId": "3282",
+    "name": "Specialist Chip Pack"
+  },
+  {
+    "itemId": "31043",
+    "name": "Semi-Synthetic Solvent"
+  },
+  {
+    "itemId": "31044",
+    "name": "Refined Solvent"
+  },
+  {
+    "itemId": "31053",
+    "name": "Compound Cutting Fluid"
+  },
+  {
+    "itemId": "31054",
+    "name": "Cutting Fluid Solution"
+  },
+  {
+    "itemId": "31063",
+    "name": "Transmuted Salt"
+  },
+  {
+    "itemId": "31064",
+    "name": "Transmuted Salt Agglomerate"
+  },
+  {
+    "itemId": "30155",
+    "name": "Nucleic Crystal Sinter"
+  },
+  {
+    "itemId": "31073",
+    "name": "Fuscous Fiber"
+  },
+  {
+    "itemId": "31074",
+    "name": "Solidified Fiber Board"
+  },
+  {
+    "itemId": "31083",
+    "name": "Aggregate Cyclicene"
+  },
+  {
+    "itemId": "31084",
+    "name": "Cyclicene Prefab"
+  }
+]

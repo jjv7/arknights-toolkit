@@ -1,0 +1,394 @@
+[
+    {
+        "id": 1,
+        "date": "2025-05-06",
+        "title": "Rhodes Island's Spring Charity Drive Commences",
+        "summary": "Rhodes Island launches a month-long charity campaign to support disaster relief efforts.",
+        "content": "On May 6, Rhodes Island unveiled its Spring Charity Drive, partnering with multiple humanitarian organizations to deliver medical supplies and food aid to regions affected by recent natural disasters. Players can join the effort by completing special “Relief Convoy” missions, earning Charity Tokens with each successful run. Every token redeemed translates into real-world donations, underscoring the game's commitment to impactful community outreach.\n\nTo celebrate participants, the dev team will host a live Q&A stream on May 10 featuring interviews with relief partners and firsthand accounts of previous campaigns' successes. Contributors hitting milestone thresholds unlock commemorative operator skins—complete with in-game emotes depicting them handing out supplies—and unique furniture items themed around the spring drive. The event runs through June 6, culminating in a wrap-up broadcast showcasing both player achievements and the tangible aid delivered.",
+        "category": "Community"
+    },
+    {
+        "id": 2,
+        "date": "2025-05-05",
+        "title": "Contingency Contract: Fog of War Mode Introduced",
+        "summary": "Season 19 adds a new Fog of War mechanic to deepen strategic challenges.",
+        "content": "Season 19 of Contingency Contract launched on May 5, unveiling the Fog of War mode which shrouds large portions of each battlefield in darkness until operators venture close enough to clear it. Commanders must now strategize around limited sightlines, deploying recon units ahead of the main force to safely reveal enemy positions. This mechanic forces a delicate balance between scouting and offensive deployment, elevating the season's difficulty curve.\n\nBut visibility isn't the only hurdle. Dynamic weather events—acidic rainstorms and electrical discharges—can occur randomly once areas are revealed, damaging or stunning exposed units. Successfully completing high-risk Fog of War contracts awards exclusive badges, operator trust bonuses, and rare Ornament Tokens for dorm decoration. According to developer notes, player feedback on this mode will inform future stealth and exploration systems in upcoming updates.",
+        "category": "Event"
+    },
+    {
+        "id": 3,
+        "date": "2025-05-04",
+        "title": "Version 2.7 Patch Notes Unveiled",
+        "summary": "Patch 2.7 brings balance adjustments, UI improvements, and two new operators.",
+        "content": "On May 4, the Arknights team released the comprehensive patch notes for Version 2.7. Key balance changes include cooldown reductions for several top-tier AoE operators and damage adjustments to underutilized units, aimed at broadening viable team compositions. The friends panel received a major overhaul—now prominently displaying operator backstories, unlockable lore entries, and easy access to social features. Inventory management saw the introduction of folder categorization and quick-sort filters, greatly streamlining resource organization.\n\nAdding to the excitement, two new 6★ Operators, FrostNova and Ironwood, arrive with contrasting playstyles: FrostNova wields a cryogenic cannon to freeze enemies in place, while Ironwood deploys barriers that reshape chokepoints in real time. The Guild system also expands to support up to 50 members, offering co-op missions and guild-exclusive challenges that reward unique cosmetics and bonus materials. Server downtime is scheduled for May 8, with asset pre-loads available starting May 6.",
+        "category": "Update"
+    },
+    {
+        "id": 4,
+        "date": "2025-05-03",
+        "title": "Arknights: Rise from Ember Anime Cast Revealed",
+        "summary": "Voice cast for the upcoming anime includes returning favorites and new talent.",
+        "content": "Ahead of its July 4 premiere, the production team for Arknights: Rise from Ember officially announced the anime's full Japanese voice cast on May 3. Series veterans like Ayaka Suwa (Amiya) and Koichi Yamadera (Doctor) reprise their roles, while new additions—Yui Ishikawa as the enigmatic Ember Handler and Tomokazu Sugita as a faction leader—bring fresh energy to the adaptation. A behind-the-scenes video showcases cast recording sessions, offering glimpses of dynamic character interactions and spirited direction.\n\nDirector Kiyotaka Oshiyama teased that the storyline will delve deeper into the lore of the Ember Crisis, exploring Rhodes Island's struggle against a resurging threat. The first teaser trailer, released alongside the cast reveal, features sweeping aerial cinematics, dramatic rescue sequences, and an orchestral score that blends haunting motifs with triumphant crescendos. A special extended preview is set for Anime Expo on June 21, where panels will discuss production challenges and reveal never-before-seen footage.",
+        "category": "Media"
+    },
+    {
+        "id": 5,
+        "date": "2025-05-02",
+        "title": "New Event: Operation Mirror Moon Begins",
+        "summary": "Limited-time event adds mirror-dimension stages and exclusive operator trials.",
+        "content": "Operation Mirror Moon launched on May 2, transporting players into a parallel dimension where enemy units mirror operator classes—Casters take Sniper roles, Guards wield specialized melee weapons, and Specialists deploy reversed support gadgets. This inversion of roles challenges commanders to rethink standard strategies, as familiar mechanics become foes. Completing Mirror Moon stages awards Mirror Fragments, which can be exchanged for exclusive 'Mirror Mask' operator skins and profile themes.\n\nSpotlight operator Lunargent debuts with a unique ability that shatters mirrored enemies' defenses, dealing bonus damage based on enemy class type. Developer diaries reveal that this event draws inspiration from the community's “What If?” lore contest, integrating player-submitted twists into the core design. Operation Mirror Moon runs through May 30, concluding with a “Mirror Gauntlet” high-score challenge—only the top 1% of participants will earn the coveted Moonbreaker badge.",
+        "category": "Event"
+    },
+    {
+        "id": 6,
+        "date": "2025-05-01",
+        "title": "Yostar Account Binding Security Upgrade",
+        "summary": "New multi-factor authentication options are now available for all accounts.",
+        "content": "On May 1, Yostar rolled out an enhanced security suite for Arknights accounts, enabling players to bind their game profiles to authentication apps and email for two-factor verification. This move aims to curb unauthorized logins and safeguard precious in-game assets. Users who enable 2FA by May 15 will receive 10 Orundum and an exclusive security-themed binder badge as thanks for helping strengthen the community's defenses.\n\nComprehensive setup guides are available on the official support portal, walking players through linking methods for popular authenticator applications. Early adopters report a smooth integration experience, with seamless backup codes and one-click recovery options. The dev team emphasized that this initiative reflects their ongoing commitment to account safety and community trust.",
+        "category": "Update"
+    },
+    {
+        "id": 7,
+        "date": "2025-04-30",
+        "title": "Collaboration Event: Delicious in Dungeon",
+        "summary": "Crossover with manga brings themed outfits, story missions, and rewards.",
+        "content": "Beginning April 30, Arknights enters the dungeon world of Delicious in Dungeon in a special crossover event. Operators don Explorer gear inspired by the manga's characters, and players undertake new story missions that pay homage to iconic culinary adventures. Completing chapter objectives rewards players with themed furniture sets replicating tavern interiors, plus limited-edition outfits for operators like Amiya and SilverAsh.\n\nA special gacha banner features a chance to summon Adventure-themed operator portraits, each with original voice lines referencing the crossover. In addition, an on-site recipe book minigame challenges players to gather in-game ingredients and cook virtual dishes, unlocking exclusive wallpapers and chat emotes. The Delicious in Dungeon event runs through June 5, promising a feast of new content for fans of both franchises.",
+        "category": "Collaboration"
+    },
+    {
+        "id": 8,
+        "date": "2025-04-29",
+        "title": "Live Stream Recap: Summer Plan Teasers",
+        "summary": "April 28 live stream previewed upcoming summer banners and events.",
+        "content": "During the April 28 live stream, developers unveiled plans for the summer season, teasing two new operator banners and the next major event, 'Sunlit Shores.' Viewers were treated to first looks at Beach Outfit costumes and community challenge mechanics designed for cooperative play. A series of limited-time “Splash Stages” will introduce unique water-based hazards requiring coordinated tactics.\n\nThe stream's Q&A segment covered balance philosophies, with leads promising ongoing quality-of-life improvements to the friend request interface and inventory management. Lucky chat participants won in-game prizes such as Orundum bundles and exclusive Summer Frame decorations. The team also dropped hints about a surprise mid-summer crossover, encouraging watchers to stay tuned for upcoming announcements.",
+        "category": "Media"
+    },
+    {
+        "id": 9,
+        "date": "2025-04-28",
+        "title": "Story Event: A Kazdelian Rescue Returns",
+        "summary": "Fan-favorite story event resurfaces with updated rewards and challenges.",
+        "content": "A Kazdelian Rescue returns on April 28 as a replayable story event, featuring updated AI behavior and heightened challenge modes. The narrative picks up where it left off, deepening the conflict between Rhodes Island and local factions in Kazdelia. Completing each chapter grants players new Kazdelian-themed skins for Ifrit and SilverAsh, along with ornamental dorm furniture capturing the region's architectural motifs.\n\nNew to this rerun is the Time Trial mode—players who clear stages under set time limits earn exclusive Title Badges and a limited “Kazdelian Striker” operator profile frame. Developers also introduced Dynamic Difficulty Scaling, adjusting enemy strength based on average operator level to ensure both veterans and newcomers face an appropriate challenge. The event runs through May 20, culminating in a final boss gauntlet with top-tier rewards for the speediest commanders.",
+        "category": "Event"
+    },
+    {
+        "id": 10,
+        "date": "2025-04-27",
+        "title": "5th Anniversary 'Card Express' Phase Two",
+        "summary": "Phase Two of the fifth anniversary event adds new missions and bonus rewards.",
+        "content": "Phase Two of the Card Express anniversary event kicked off on April 27, introducing fresh daily and weekly missions that award digital Anniversary Cards at an accelerated rate. Players who collect full sets of cards can exchange them for Orundum, rare elite promotion materials, and a commemorative 'Anniversary Frame' for their operator profiles. The new missions include cooperative challenges that encourage teaming up with friends, granting double the card rewards for S-rank clearances.\n\nIn addition, a special weekend login bonus will grant Ancient Coins—usable in the Anniversary Shop for unique furniture items inspired by the game's five-year history. The developers have teased surprise chest drops hidden within select event stages, encouraging operators to replay their favorite maps for bonus loot. Phase Two runs through May 6, with an exclusive finale livestream slated for May 7 to showcase player achievements and highlight the event's top contributors.",
+        "category": "Anniversary"
+    },
+    {
+        "id": 11,
+        "date": "2025-04-26",
+        "title": "Arknights: Endfield Beta Feedback Summary",
+        "summary": "Developers publish community feedback from the Endfield closed beta.",
+        "content": "On April 26, the team released an in-depth summary of player feedback gathered during the Endfield closed beta. Highlights include requests for clearer crafting recipes, balance adjustments for ranged and melee classes, and UI streamlining for inventory management. Many testers praised the game's immersive environments and expanded base-building features, while also suggesting improvements to quest tracking and enemy telegraph clarity.\n\nResponding to the community, the developers confirmed several planned changes for Phase Two, including enhanced crafting tooltips, reworked enemy spawn patterns, and simplified co-op matchmaking. Beta participants who submitted actionable bug reports will receive special compensation packs—containing in-game currency and exclusive Endfield-themed wallpapers—once the final release launches. A second closed beta is tentatively scheduled for late June to validate these adjustments.",
+        "category": "Beta"
+    },
+    {
+        "id": 12,
+        "date": "2025-04-25",
+        "title": "New Recruitment Permit Offers Announced",
+        "summary": "Special headhunting permits feature boosted drop rates for select operators.",
+        "content": "On April 25, Yostar unveiled limited-time Recruitment Permit offers guaranteeing boosted drop rates for SilverAsh and Blaze. The promotional period runs from April 26 to May 5, during which every 60 pulls on the permit banner guarantees at least one featured 6★ operator. This new pity system aims to reduce frustration and improve accessibility for players chasing these high-demand units.\n\nIn tandem, the headhunting rate-up banners will rotate more frequently, introducing a 'Mini-Guarantee' mechanic: after 30 pulls without a featured 6★, the next pull has a 50% chance to yield one. The detailed mechanics and odds breakdown can be found in the in-game announcement panel, and a celebratory “Head Hunter's Hat” dorm decoration is awarded to players who use over 100 permits during the event. Community streams this weekend will offer free pull-on-me sessions and developer insights into future banner plans.",
+        "category": "Update"
+    },
+    {
+        "id": 13,
+        "date": "2025-04-24",
+        "title": "Community Art Contest Winners Revealed",
+        "summary": "Top entries from the Spring Art Contest have been announced.",
+        "content": "The results of the Spring Community Art Contest were announced on April 24, showcasing 20 standout pieces selected by a combination of player votes and developer judging. Winners receive generous Orundum prizes, official merchandise bundles, and the honor of having their artwork featured in the in-game gallery. Highlighted themes include vibrant spring landscapes, operator mash-ups, and stylized lore interpretations that celebrate the Arknights universe.\n\nAs a bonus, the top three artists are invited to a special livestream on April 28, where they will discuss their creative processes and share behind-the-scenes sketches. All contest participants will receive a digital artbook PDF containing every submitted entry, allowing the entire community to appreciate the diversity of talent. The developers have hinted at making this an annual tradition, with expanding categories for future contests based on player feedback.",
+        "category": "Community"
+    },
+    {
+        "id": 14,
+        "date": "2025-04-23",
+        "title": "New Furniture Sets: Morning Dew and Crimson Moon",
+        "summary": "Two seasonal furniture sets are now available in the shop.",
+        "content": "On April 23, the Dorm Store introduced two new seasonal furniture sets—Morning Dew and Crimson Moon—designed to help players refresh their quarters with spring and gothic aesthetics. Morning Dew features pastel florals, flowing water fixtures, and birdsong ambient sound effects, while Crimson Moon offers a darker palette of deep reds, wrought-iron lamps, and drifting moonlight shadows. Each set includes walls, floors, decor items, and specialized lighting options.\n\nFor a limited time, purchasing both sets as a bundle grants a 15% discount, plus an exclusive “Dewdrop Mirror” dorm decoration. Players can preview furniture placements in a new 3D preview mode before buying, ensuring perfect layouts. Early reviews praise the attention to detail and immersive atmospheres these sets provide, making them some of the most sought-after decorations since the Anniversary Deco Pack.",
+        "category": "Update"
+    },
+    {
+        "id": 15,
+        "date": "2025-04-22",
+        "title": "Guest Operator Trial: Meteorite",
+        "summary": "Meteorite joins as a limited-time guest operator for training missions.",
+        "content": "Starting April 22, Meteorite is available as a guest operator in special training missions running through May 6. This trial allows players to explore her unique skill set—deploying gravity wells that pull enemies toward designated zones—without needing to recruit her. Completing challenge missions grants Meteorite Tokens, which can be redeemed for a recruitment permit at the end of the trial period.\n\nThe event also features a developer-hosted livestream on April 24, where they discuss Meteorite's design philosophy and demonstrate advanced tactics for maximizing her utility in both standard and CC stages. Players who share their Meteorite highlights on social media using the hashtag #MeteoriteTrial are entered to win exclusive in-game badges and themed wallpapers.",
+        "category": "Event"
+    },
+    {
+        "id": 16,
+        "date": "2025-04-21",
+        "title": "Version 2.7 Public Test Server Opens",
+        "summary": "PTS for 2.7 patch is live in select regions, inviting player testing.",
+        "content": "On April 21, the public test server (PTS) for Version 2.7 went live in SEA and TW regions, offering early access to features like Fog of War in Contingency Contract and the revamped friendship panel. Testers can deploy new operators FrostNova and Ironwood, experiment with the redesigned Guild interface, and provide direct feedback through the in-client reporting tool. Participant feedback will shape final balance and UI tweaks before global release.\n\nTo encourage participation, the development team is awarding bonus Orundum and exclusive PTS badges to all accounts that log in before May 5. A mid-PTS livestream on April 28 will recap initial impressions and outline planned adjustments. Interested players outside SEA and TW can sign up for the next testing wave, pending server capacity and region-specific requirements.",
+        "category": "Beta"
+    },
+    {
+        "id": 17,
+        "date": "2025-04-20",
+        "title": "Operator Profile: Spotlight on W",
+        "summary": "In-depth article explores W's backstory and skill design.",
+        "content": "On April 20, the official dev blog published an extensive Operator Profile on W, delving into her transformation from Reunion scientist to Rhodes Island operative. The piece examines her dual-mode skill mechanic—switching between precision explosive traps and high-yield cluster charges—and how this versatility makes her a formidable strategist on the battlefield. Concept sketches illustrate the evolution of her trap designs, revealing developer insights into her thematic alignment with chaos and unpredictability.\n\nInterspersed with the profile are interviews with W's voice actress and lead designer, shedding light on narrative motivations and gameplay challenges. Readers also gain a glimpse into her relationship with other Reunion defectors, hinting at untold story threads that may surface in future events. Fans have responded positively, praising the depth of lore and speculating on W's potential rework or banner appearance in Version 2.8.",
+        "category": "Media"
+    },
+    {
+        "id": 18,
+        "date": "2025-04-19",
+        "title": "Collaboration Announcement: Arknights x League of Legends",
+        "summary": "Upcoming crossover to feature themed operator skins and story missions.",
+        "content": "On April 19, Arknights and League of Legends officially announced a high-profile crossover event set to launch on May 15. Featured operators will receive LoL-inspired skins—Amiya as a mage channeling Arcane magic, and Exusiai wielding Piltover tech gauntlets. A co-op story mission will transport Rhodes Island operatives to Runeterra, facing off against creatures like Voidspawn and Rift Heralds in an epic narrative fusion.\n\nEvent currency earned through limited-time stages can be exchanged for champion-themed furniture sets replicating the League's iconic Summoner's Rift terrain. The collaboration will also include a special gacha banner with boosted rates on crossover skins and a developer livestream on May 10 to reveal gameplay integrations and behind-the-scenes design processes. Players eager for sneak peeks can view concept art on both official Twitter channels starting April 25.",
+        "category": "Collaboration"
+    },
+    {
+        "id": 19,
+        "date": "2025-04-18",
+        "title": "Community Poll: Next Gacha Guarantees",
+        "summary": "Vote now to choose the next guaranteed operator for headhunting banners.",
+        "content": "A Community Poll launched on April 18, inviting players to select which 6★ operator will be the guarantee unit in upcoming headhunting banners. Candidates include Ifrit, Hoshiguma, Angelina, and Saria, each accompanied by a detailed showcase video highlighting their skills and lore. Polls will close on April 30, and results will influence the design of the next set of Recruitment Permits.\n\nTo thank participants, everyone who votes will receive five free daily pull tickets, redeemable on any banner. The poll page features live updates and community commentary, fostering lively discussion and speculation across social media. Developers have hinted at incorporating additional player suggestions—such as themed furniture or mini-events tied to the winning operator—making this poll one of the most interactive to date.",
+        "category": "Community"
+    },
+    {
+        "id": 20,
+        "date": "2025-04-17",
+        "title": "New Recruit Profiles Added to Archive",
+        "summary": "Six new operator profiles published with lore and skill analyses.",
+        "content": "On April 17, the Operator Archive received a substantial update, adding in-depth profiles for six operators: Gloria, Durin, Magallan, Gavial, Sussurro, and Svoboda. Each profile delves into the character's background, exploring their journey from recruitment through mastery of unique skills. Concept art galleries accompany each entry, showcasing early design sketches alongside finalized in-game models, giving fans insight into the creative process.\n\nBeyond lore, the new profiles include detailed breakdowns of signature abilities, deployment strategies, and recommended team synergies. Developer commentary sections reveal the challenges and inspirations behind key mechanics—such as Magallan's area denial traps and Sussurro's support-aura buffs. The Archive interface itself has been enhanced with “favorite” tagging and cross-reference links, allowing users to navigate related operators and build comprehensive party guides directly within the app.",
+        "category": "Update"
+    },
+    {
+        "id": 21,
+        "date": "2025-04-16",
+        "title": "April Login Bonus Extended",
+        "summary": "Daily login rewards now run through May 10, adding bonus materials.",
+        "content": "Due to server maintenance delays, the April Login Bonus period was extended on April 16, granting players five extra days of rewards. Operators who log in through May 10 will receive additional Orundum, LMD, and Elite Promotion materials to make up for any missed days. The extension also introduces a special final-day gift: a 5★ Talent Summary pack allowing immediate unlock of an operator skill upgrade.\n\nThe in-game announcement panel highlights that these bonus days come with celebratory decorations and themed login screens depicting spring cherry blossoms. Community feedback channels have praised the gesture, noting that the extra materials help offset time spent offline during maintenance. Players are encouraged to check daily for rotating mini-challenges, each granting extra Furniture Parts and a chance at rare operator profile skins.",
+        "category": "Event"
+    },
+    {
+        "id": 22,
+        "date": "2025-04-15",
+        "title": "Arknights: Endfield Closed Beta Phase Two",
+        "summary": "Phase Two of Endfield's closed beta begins with expanded features.",
+        "content": "Phase Two of the Arknights: Endfield closed beta went live on April 15, introducing two new playable regions—Red Forest and Sable Coast—and adding five additional characters to the roster. In response to Phase One feedback, the crafting system received a UI overhaul, improving recipe clarity and resource tracking. Base building mechanics now support modular upgrades, allowing players to customize workshop layouts for optimized production speeds.\n\nCo-op functionality also saw enhancements: a dedicated matchmaking lobby and friend-invite system streamline group formation, while PvP trial arenas offer early glimpses of competitive gameplay. Each participant in Phase Two is invited to submit detailed feedback via an integrated in-client survey, with the most insightful contributors rewarded with bonus currency packs and exclusive wallpapers at full release.",
+        "category": "Beta"
+    },
+    {
+        "id": 23,
+        "date": "2025-04-14",
+        "title": "New Operator Banners: Night of the Sable",
+        "summary": "Night-only banner features 6★ Guard Orion and support operator Rook.",
+        "content": "On April 14, Yostar launched the Night of the Sable banner, spotlighting the brand-new 6★ Guard Orion and 5★ Support operator Rook. Orion specializes in high-damage nighttime ambush tactics, gaining bonus crit chance under low-light conditions, while Rook provides tactical shields that absorb damage and redirect it back to attackers. Both operators feature unique animations and voice lines tailored to the banner's moonlit theme.\n\nTo enhance pull fairness, the banner introduces a revised pity system guaranteeing a 6★ after 80 pulls, down from the previous 90. Limited-time login missions run concurrently, offering free pulls and accessory tokens for completing daily objectives. Community streams have already begun showcasing gameplay tests of Orion in high-difficulty stages, praising her synergy with existing Guards and her ability to control crowds during CC challenges.",
+        "category": "Update"
+    },
+    {
+        "id": 24,
+        "date": "2025-04-13",
+        "title": "Operator Skill Adjustments Announced",
+        "summary": "Balance patch coming May 1 to fine-tune top-tier operators.",
+        "content": "On April 13, the dev team published details of an upcoming balance patch scheduled for May 1. Operators like Blaze, SilverAsh, and Angelina will see cooldown reductions on their most popular skills, addressing community concerns about long wait times between casts. Conversely, underutilized characters such as Nearl and Ceobe will receive buffs to their damage multipliers or health pools to enhance viability in endgame content.\n\nThe update also includes system-wide changes: skill tooltips will now display exact numerical values and projected damage outputs, improving player decision-making during recruitment and combat. A public test server window is slated for late April to gather feedback on these adjustments before final implementation. Developers emphasized their commitment to a transparent balancing process, encouraging players to share first impressions through official channels.",
+        "category": "Update"
+    },
+    {
+        "id": 25,
+        "date": "2025-04-12",
+        "title": "Community Spotlight: Fan-Made Music Remixes",
+        "summary": "Arknights fans share remixed soundtrack tracks in a special roundup.",
+        "content": "On April 12, the official blog featured a Community Spotlight highlighting fan-made remixes of beloved Arknights tracks. Selected submissions ranged from jazz reinterpretations of 'W' to orchestral variants of 'Prominence,' each showcasing creative reimaginings of the game's stirring score. Remixers provided behind-the-scenes commentary on arrangement choices, offering fellow musicians insight into adapting electronic compositions for live instruments.\n\nThe top three remixers will receive exclusive merchandise packs and have their tracks featured in an upcoming in-game radio mode. Additionally, a collaborative playlist was curated on popular streaming platforms, allowing the broader community to enjoy and vote for their favorite remixes. Submissions remain open until April 25, inviting further contributions and celebrating the game's vibrant fan music scene.",
+        "category": "Community"
+    },
+    {
+        "id": 26,
+        "date": "2025-04-11",
+        "title": "New Dorm Furniture: Coastal Retreat",
+        "summary": "Coastal Retreat set brings beach vibes to operator living quarters.",
+        "content": "The Coastal Retreat furniture set debuted on April 11, offering players a seaside-themed collection for dorm customization. The set includes sandy-textured flooring, bamboo loungers, palm tree lamps, and a surfboard bookshelf. Ambient soundtracks of gentle waves and seagulls enhance immersion, creating a relaxing atmosphere reminiscent of an oceanfront escape.\n\nFor a limited time, purchasing the full Coastal Retreat bundle grants a bonus 'Seashell Vanity' decoration and a unique profile frame featuring drifting ocean currents. Individual items are also available for separate purchase, with rotating discounts on complementary sets. Community feedback praised the set's cohesive design and the addition of audio elements, marking one of the most popular furniture releases in recent memory.",
+        "category": "Update"
+    },
+    {
+        "id": 27,
+        "date": "2025-04-10",
+        "title": "Operator Trial: Saga Trial Returns",
+        "summary": "Saga returns as a guest operator for two weeks of trial missions.",
+        "content": "From April 10 through April 24, Saga, originally introduced in Contingency Contract Season 17, is available as a guest operator in designated trial missions. During the trial, players can utilize Saga's powerful AoE artillery skills—capable of striking multiple enemies in cross patterns—without needing to recruit her. Completing Saga Trial missions earns Saga Tokens, exchangeable for a recruitment permit at the trial's conclusion.\n\nIn addition, the dev team will host a Saga Masterclass livestream on April 12, offering advanced deployment strategies and discussing her potential synergy with other Guards and Specialists. Participants who share their highest score runs on social media using #SagaTrial will be entered to win exclusive in-game badges and themed wallpapers. The return of Saga Trial provides both veteran and new players an opportunity to experience one of Arknights' most unique damage dealers.",
+        "category": "Event"
+    },
+    {
+        "id": 28,
+        "date": "2025-04-09",
+        "title": "Patch 2.7 PTS: Feature Deep Dive",
+        "summary": "Developer blog details major features of the upcoming patch.",
+        "content": "On April 9, the dev blog published a deep dive into the most significant features arriving in Patch 2.7. The article covers the new Fog of War mode in Contingency Contract—where unseen map areas remain hidden until scouted—and the introduction of dual-mode operators like Ironwood, who can switch between tank and support forms mid-battle. Detailed screenshots illustrate how the revamped Guild system will support co-op missions and guild leaderboards.\n\nThe deep dive also explores UI enhancements: a redesigned Recruit menu with advanced filter options, an updated Friendship panel showcasing operator lore unlocks, and an in-client bug report tool for PTS participants. Developers share early community feedback on these features and outline planned adjustments before the official release. Readers are encouraged to join the ongoing PTS and submit their impressions directly through the in-client survey.",
+        "category": "Media"
+    },
+    {
+        "id": 29,
+        "date": "2025-04-08",
+        "title": "Spring Festival Event Rewards Updated",
+        "summary": "Additional login and mission rewards added to Spring Festival event.",
+        "content": "Due to popular demand, the Spring Festival event received an update on April 8, adding bonus login rewards and side missions. Players can now earn double event tokens on weekends through April 30, and completing new side missions grants exclusive Spring Lantern furniture and festive emotes. The mission tracker in the event panel has been improved to display progress more clearly, reducing confusion over task requirements.\n\nThe update also introduces a new “Flower Gathering” mini-game, where operators collect special blooms across event stages to fill a communal bouquet—unlocking additional Orundum rewards when overall community milestones are reached. Developer comments reveal that these additions stemmed directly from player suggestions posted on official forums, demonstrating the team's commitment to responsive event design.",
+        "category": "Event"
+    },
+    {
+        "id": 30,
+        "date": "2025-04-07",
+        "title": "Voice Pack Expansion Adds New Languages",
+        "summary": "Arknights now features full voiceovers in Korean and German.",
+        "content": "On April 7, Arknights officially launched new voice packs in Korean and German, bringing localized audio to the growing global audience. The update covers all operator interactions, in-battle commands, recruitment dialogs, and story cutscenes for the main campaign up to Episode 10. Voice actors were carefully selected from top regional talent pools to ensure authenticity and emotional depth in character portrayals.\n\nYostar emphasized its commitment to localization, noting that the scripts underwent cultural adaptation to preserve nuance and narrative tone. Fans welcomed the update with excitement, particularly in the Korean community where a wave of fan-made tributes and videos flooded social media. Plans are underway to expand additional content like side stories and limited events in upcoming months to match these new voice options.",
+        "category": "Update"
+    },
+    {
+        "id": 31,
+        "date": "2025-04-06",
+        "title": "Elite Operator Poll Results Announced",
+        "summary": "Blaze and Surtr top popularity poll for upcoming skin design.",
+        "content": "The results of the Elite Operator popularity poll were revealed on April 6, and Blaze and Surtr secured the top two spots. These operators will receive exclusive limited-time skins designed in collaboration with prominent digital artists. Over 1.2 million players participated in the two-week poll, making it the most successful community event of the year.\n\nYostar teased early design sketches showing Blaze in a cyberpunk outfit and Surtr in a regal-themed battle gown. Final versions will debut during the Anniversary showcase in June. Participants who voted received Orundum and a commemorative badge. Developers noted that the results will influence future banner reruns and may inform which operators receive gameplay updates or lore expansions in the near future.",
+        "category": "Community"
+    },
+    {
+        "id": 32,
+        "date": "2025-04-05",
+        "title": "Contingency Contract Season 18 Begins",
+        "summary": "Season 18 introduces rotating hazard modifiers and new map styles.",
+        "content": "Contingency Contract Season 18 launched on April 5, introducing a new map rotation system where environmental hazards change every 48 hours. Players will face challenges like shifting terrain tiles, acid rain debuffs, and electrical field hazards, demanding fresh strategies and team builds. A new feature allows players to preview hazard behavior in a simulator before committing to high-risk contracts.\n\nSeasonal rewards include limited-edition operator skins, elite certificates, and custom CC titles. Themed skins for operators like Amiya, Executor, and Lava are now available in the reward shop. Veteran players praised the fresh mechanics as a meaningful step toward revitalizing CC's late-game appeal. A leaderboard system now shows detailed analytics like clear speed and operator usage rates to promote experimentation.",
+        "category": "Event"
+    },
+    {
+        "id": 33,
+        "date": "2025-04-04",
+        "title": "Operator Class Rework: Specialists Overhaul",
+        "summary": "Specialist operators receive major updates to skill logic and AI.",
+        "content": "April 4 marked a significant overhaul to the Specialist class, with 12 operators receiving updated skill behaviors and passive traits. These changes aim to improve usability in complex missions, especially for pullers and pushers. For example, Cliffheart and Rope now automatically reposition enemies based on terrain height and edge proximity, eliminating the need for manual targeting in tight corridors.\n\nAdditionally, ranged Specialists like Phantom received AI refinements that allow them to prioritize high-threat enemies or support allies with crowd control. The rework also adjusts DP costs to make deployment more viable early in battles. The patch has been well-received in the community, with many noting that these changes finally elevate the Specialist role to strategic importance in elite-level play.",
+        "category": "Update"
+    },
+    {
+        "id": 34,
+        "date": "2025-04-03",
+        "title": "New Music Single Released: 'Endless Silence'",
+        "summary": "Arknights releases an original soundtrack piece tied to upcoming story arc.",
+        "content": "On April 3, Yostar released the latest Arknights OST single titled 'Endless Silence,' composed by longtime collaborator Ayasa. The piece is part of the prelude to the upcoming storyline arc and features haunting violin melodies layered with ambient industrial sounds. Accompanying the release is a limited-edition visualizer showcasing abstract motion art inspired by the story's emotional themes.\n\nFans can stream 'Endless Silence' on major platforms such as Spotify, Apple Music, and YouTube. A physical edition is slated for release in May, bundled with an artbook that includes composer commentary and sheet music. The track's release hints at a dramatic turn in the game's lore, sparking speculation across the community about the next major event's themes and protagonists.",
+        "category": "Media"
+    },
+    {
+        "id": 35,
+        "date": "2025-04-02",
+        "title": "Operator Voice Line Update: Retro Lines Restored",
+        "summary": "Classic operator voice lines restored with toggle option.",
+        "content": "Following widespread community requests, Yostar restored several original operator voice lines that had been modified in past patches. On April 2, players were given the option to toggle between legacy and current voice packs in the settings menu. Affected operators include Texas, Ch'en, and Hoshiguma, whose original battle phrases and interactions are now available alongside the latest recordings.\n\nThis feature was added to honor long-term players who expressed nostalgia for the game's earlier tone and character delivery. Developers emphasized the technical work behind integrating multiple audio versions without increasing load times or memory usage. The update was met with enthusiastic approval, particularly from veteran players who appreciated the added personalization.",
+        "category": "Update"
+    },
+    {
+        "id": 36,
+        "date": "2025-04-01",
+        "title": "April Fool's Event: Arknights Kart Racing",
+        "summary": "Mini-game event lets operators race in go-karts for special prizes.",
+        "content": "Yostar celebrated April Fool's Day with a surprise limited-time mini-game titled 'Arknights Kart Racing,' where operators race across familiar maps using colorful go-karts. The event runs from April 1 to April 3 and features 10 tracks inspired by cities in Terra. Players control their favorite operators in time trials or PvP races, unlocking medals and speed-themed skins based on performance.\n\nIn-game prizes include a speedster Amiya costume, turbo-charged profile icons, and animated base decorations. Despite being a humorous side event, the kart racer features surprisingly tight controls, drifting mechanics, and weapon pickups—drawing comparisons to full-fledged kart titles. The event garnered significant attention online, with fans petitioning for it to become a permanent side mode.",
+        "category": "Event"
+    },
+    {
+        "id": 37,
+        "date": "2025-03-31",
+        "title": "Base System Upgrade: Room Linking",
+        "summary": "Operators can now move between linked base rooms to improve efficiency.",
+        "content": "March 31 brought a significant enhancement to the base system: room linking. Players can now connect up to three adjacent rooms, allowing operators to move between them during work shifts without redeployment. This boosts efficiency and opens up new strategic configurations for trading posts, factories, and dorms.\n\nIn addition, new interface icons make it easier to view operator fatigue levels and assign rest time automatically. The feature also supports personalized movement animations, and select operators have unique transitions when moving between room types. Early adopters have praised the increased flexibility, with several guide creators releasing optimized room-link blueprints to maximize production output.",
+        "category": "Update"
+    },
+    {
+        "id": 38,
+        "date": "2025-03-30",
+        "title": "Operator Skin Revival Sale Starts",
+        "summary": "Fan-favorite skins return for a limited-time shop event.",
+        "content": "To wrap up the March lineup, a revival sale of fan-favorite operator skins launched on March 30. Popular costumes from previous events—such as Specter's “Deepsea Dive” and Eyjafjalla's “Summer Bloom”—are back in the Outfit Store at a discounted price. Each skin bundle includes animated idle stances and themed voice lines.\n\nThe sale will run until April 14 and features a rotating daily discount on select skins. A new Outfit Showcase tab in the store lets players preview skins in live environments, helping decide before purchasing. The sale is part of a quarterly tradition and has already driven a spike in cosmetic sales, with several skins trending across social media for their vibrant redesigns.",
+        "category": "Event"
+    },
+    {
+        "id": 39,
+        "date": "2025-03-29",
+        "title": "Arknights TV Drama Confirmed",
+        "summary": "Live-action drama series based on Arknights entering production.",
+        "content": "In a major announcement on March 29, Yostar confirmed that a live-action drama adaptation of Arknights is now in pre-production. The series, titled 'Rhodes Frontline,' will follow a new storyline set during the Catastrophe Era, featuring both original and familiar characters. Japanese studio TOHO is producing, with a planned 2026 release window and a teaser trailer scheduled for this summer.\n\nThe drama aims to blend political intrigue with tactical action, mirroring the game's mature narrative tone. Early concept footage shows urban set designs, military gear, and visual effects for Arts-based abilities. Casting is still underway, but producers are seeking multilingual actors for international authenticity. Fans are cautiously optimistic, hoping it avoids common pitfalls seen in game adaptations while introducing new audiences to the Arknights universe.",
+        "category": "Media"
+    },
+    {
+        "id": 40,
+        "date": "2025-03-28",
+        "title": "New Side Story 'Embers of Solitude' Announced",
+        "summary": "Yostar teases a new side story set in the frigid territories of Kjerag.",
+        "content": "Yostar has officially revealed the upcoming side story titled 'Embers of Solitude', set in the icy mountains of Kjerag. Scheduled to release in mid-April, the story will delve into Kjerag's political tensions and spiritual traditions, focusing on new characters from the Silverash family and rival factions.\n\nPlayers can expect new enemy types adapted to snowy terrain, with environmental debuffs such as frostbite and reduced movement. The event will introduce two new limited operators—one a Supporter specializing in terrain control, and the other a DPS Caster with stacking cold damage. As usual, the event will bring themed furniture, limited skins, and a new soundtrack track titled 'Echoes in Snow'.\n\nLore enthusiasts are eager to explore more of Kjerag's mysterious past, especially with hints that this arc may tie directly into the main story's next chapter.",
+        "category": "Event"
+    },
+    {
+        "id": 41,
+        "date": "2025-03-27",
+        "title": "Arknights Art Exhibition Goes Global",
+        "summary": "The touring art exhibition makes stops in Europe and North America.",
+        "content": "Following a successful debut in Tokyo, the official Arknights Art Exhibition is expanding to new cities including Paris, Los Angeles, and Berlin. Opening in Paris on March 27, the exhibition features life-sized operator displays, behind-the-scenes development materials, concept art, and animated short screenings.\n\nVisitors will receive exclusive merchandise such as art postcards, operator keychains, and a printed booklet featuring interviews with the game's illustrators and writers. There's also a VR station where fans can explore a 3D-rendered Rhodes Island base. The exhibition is expected to draw large crowds, especially as it overlaps with regional Arknights meetups and merchandise drops.\n\nFans can reserve timed tickets online, and organizers have promised surprise appearances by guest artists at certain venues.",
+        "category": "Media"
+    },
+    {
+        "id": 42,
+        "date": "2025-03-26",
+        "title": "Rhine Lab Rerun Banner Returns",
+        "summary": "Fan-favorite operators like Ifrit and Silence headline the rerun.",
+        "content": "On March 26, Yostar launched the Rhine Lab Rerun Banner, bringing back beloved operators like Ifrit, Silence, and Saria. This rerun gives new players a chance to obtain some of the game's most versatile support and healing units, with improved drop rates during the event.\n\nThemed banners also come with limited missions, such as clearing specific story maps using Rhine Lab members to earn Orundum, elite certificates, and development logs. A login campaign runs concurrently, offering daily rewards and a 5-star operator ticket.\n\nVeteran players are using the opportunity to max potential their favorite operators, and analysts recommend the banner for newer players needing strong healing and AoE capabilities.",
+        "category": "Recruitment"
+    },
+    {
+        "id": 43,
+        "date": "2025-03-25",
+        "title": "New Permanent Annihilation Map Released",
+        "summary": "Yostar adds a new Annihilation challenge set in the volcanic Badlands.",
+        "content": "Yostar has introduced a new permanent Annihilation map titled 'Infernal Rise', which takes place in the searing Badlands region. The map includes volcanic eruptions that create lava tiles mid-wave, forcing operators to relocate frequently. Enemies feature heat-resistance buffs and explosive self-destruct skills.\n\nSuccessfully completing the map yields weekly Orundum and challenge medals. Players who clear it within a specific time frame unlock a special animated medal for their profile. The map's difficulty level has sparked debate in the community, especially due to its unpredictable hazards.\n\nTo assist players, Yostar released a video guide featuring meta team compositions and strategies, and the official Discord community has organized challenge runs and leaderboard competitions.",
+        "category": "Update"
+    },
+    {
+        "id": 44,
+        "date": "2025-03-24",
+        "title": "Arknights Wins 'Best Live Ops' at Global Game Awards",
+        "summary": "Yostar's continuous content earns them top honors for live service support.",
+        "content": "On March 24, Arknights received the 'Best Live Ops' award at the Global Game Awards, beating out stiff competition from other major titles. The award recognizes excellence in long-term content planning, server stability, community interaction, and in-game event quality.\n\nJudges praised Yostar's balance of narrative depth, engaging events, and consistent updates. The nomination highlighted past content like the 'Under Tides' story arc and CC seasons. Developers released a thank-you message to the community, along with 600 Orundum and a celebratory login bonus.\n\nFans celebrated the recognition, noting how Arknights has maintained player interest over the years without overreliance on monetization tactics. A special thank-you stream is scheduled with behind-the-scenes content and interviews with the development team.",
+        "category": "Community"
+    },
+    {
+        "id": 45,
+        "date": "2025-03-23",
+        "title": "Operator Story Archives Expanded",
+        "summary": "New archival system allows for unlocked operator stories to be replayed and translated.",
+        "content": "A highly requested feature was added on March 23: Operator Story Archives. This new interface in the records section allows players to revisit unlocked operator stories, even those not currently in the squad. Stories now come with updated UI and include professional translations in multiple languages.\n\nPlayers can sort by rarity, faction, or operator class to find their favorites. Bonus lore entries and artwork for max-trust operators have also been included. Completing story replays for the first time grants additional trust points and furniture parts.\n\nThe archives improve access to Arknights' rich world-building and make it easier for lore-focused players to catch up on missed content. It's also a helpful tool for content creators and translators covering game storylines.",
+        "category": "Update"
+    },
+    {
+        "id": 46,
+        "date": "2025-03-22",
+        "title": "Cross-Promotion With Azur Lane Announced",
+        "summary": "Yostar reveals a crossover event featuring Arknights and Azur Lane.",
+        "content": "Yostar announced a major cross-promotion between Arknights and Azur Lane, launching March 22. Players of both games can complete missions to earn rewards that unlock exclusive cosmetics and characters. In Arknights, players will receive a ship-themed outfit for Texas, while Azur Lane players can earn a Rhodes Island base skin.\n\nEvent missions encourage players to link accounts and clear content in both titles. There's also a special story cutscene where operators visit Azur Lane's universe, complete with new voice lines and animated interactions. Community art contests and livestreams will celebrate the crossover throughout its two-week run.\n\nThis collaboration aims to strengthen the Yostar ecosystem and give fans of both franchises new ways to engage with their favorite characters.",
+        "category": "Event"
+    },
+    {
+        "id": 47,
+        "date": "2025-03-21",
+        "title": "Operator Buffs for Early Game Units",
+        "summary": "Low-star operators receive stat and skill reworks to increase viability.",
+        "content": "March 21 saw balance changes for over 15 early-game operators, focusing primarily on 2- to 4-star units. Buffs include increased healing output for Ansel, enhanced defense stats for Beagle, and faster attack intervals for Kroos. Several talents were also reworked to scale with trust or elite levels.\n\nThe patch aims to make low-rarity units more viable in high-risk content and encourage strategic squad variety. Yostar noted that this aligns with their design philosophy of giving all operators long-term value. Players welcomed the update, especially those doing free-to-play or themed challenge runs.\n\nA developer blog accompanied the update, detailing the reasoning behind specific changes and showcasing new synergy examples.",
+        "category": "Update"
+    },
+    {
+        "id": 48,
+        "date": "2025-03-20",
+        "title": "Monthly Operator Pack Released",
+        "summary": "New subscription model offers increased value and flexibility.",
+        "content": "Yostar introduced a Monthly Operator Pack subscription on March 20, offering consistent premium rewards for a low fee. For the duration of 30 days, subscribers receive daily Orundum, bonus sanity potions, and a rotating 5-star recruitment ticket. Unique to the pack is the 'Operator Favor' item, which can boost trust for any one operator by 20% instantly.\n\nThe new model is designed to offer better value than single-time purchases, particularly for long-term players. The pack's flexible nature allows cancellation at any time and auto-renews through app store billing systems. Initial reception has been positive, with many calling it a fair alternative to high-priced bundles.",
+        "category": "Shop"
+    },
+    {
+        "id": 49,
+        "date": "2025-03-19",
+        "title": "Arknights Manga Volume 3 Now Available",
+        "summary": "Third manga volume explores the events surrounding Rhodes Island's founding.",
+        "content": "Yostar has released Volume 3 of the official Arknights manga, available digitally and in select bookstores. This installment dives into the founding of Rhodes Island, detailing the early days of Amiya, Kal'tsit, and other core members. The volume includes six new chapters, artist commentary, and a bonus four-panel comic.\n\nThe manga uses a more grounded visual style, exploring medical ethics, early mission failures, and operator training protocols. Fans of the game's lore will find rich context that supplements the main story. First-edition physical copies come with a limited in-game reward code and a collectible bookmark.",
+        "category": "Media"
+    }
+]
