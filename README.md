@@ -6,6 +6,10 @@ The project was more focused on the front-end aspect, but became more full-stack
 
 I currently do not have plans to host this website publicly.
 
+## Video Demonstration
+
+[https://youtu.be/la5k8zeCQ7k](https://youtu.be/la5k8zeCQ7k)
+
 ## Requirements
 
 You will need some version of Node.js if planning to run locally. However, you will not be able to use database features unless you define a proxy in [`vite.config.js`](vite.config.js)
